@@ -1,0 +1,16 @@
+// 1.20.1	2023-12-20T14:48:49.3457768	Block States: tropical
+6a96d98fd16d07a370fa0627b42aa1f02b6c4ba0 assets/tropical/blockstates/ashen_sand.json
+155c714aa227a2aeddb6e7ab33854463afe67b38 assets/tropical/blockstates/bubblestone.json
+28ac2f8681387fb55d8c97989708bd64c855926e assets/tropical/blockstates/muddyslatestone.json
+0016a72ab1cf2e1ed6f059db25cb28615904390e assets/tropical/blockstates/slatestone.json
+61dfdf1b9e9ef9cc4a240e59d020d8f0d61c3118 assets/tropical/blockstates/sulfurstone.json
+9d8d2ec4476d1de278fd17cdea39d1e5126c521f assets/tropical/models/block/ashen_sand.json
+e4db05bcbfc9e2e43b774a000ceaf3b0b2182818 assets/tropical/models/block/bubblestone.json
+d3f315c03bc8ea837a463eeec249ec371419f286 assets/tropical/models/block/muddyslatestone.json
+8ad466523c9fe47ef05bdde39a242267755959f9 assets/tropical/models/block/slatestone.json
+93a1537e4f69450b37d61b060e38c8500fb5b903 assets/tropical/models/block/sulfurstone.json
+d4081f878bd3ef75b087f4e6e38c97eaac81afc3 assets/tropical/models/item/ashen_sand.json
+22cd5d8f8a641ee3cac78432af5d55a22686036d assets/tropical/models/item/bubblestone.json
+08de6970dc0e8cd143beb5926b892f4540ca92c5 assets/tropical/models/item/muddyslatestone.json
+4518edeae716a9a8ff7fe40b11fc02f34fe787b3 assets/tropical/models/item/slatestone.json
+73c968b9e084d1b567c587d3bc1f3316323f6de3 assets/tropical/models/item/sulfurstone.json
