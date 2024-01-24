@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "tropical:block/ashensandstone_bottom",
+    "side": "tropical:block/ashensandstone_side",
+    "top": "tropical:block/ashensandstone_top"
+  }
+}
